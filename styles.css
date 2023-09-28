@@ -41,7 +41,9 @@ article button {
     height: 20px;
 }
 article h1 {
-    color: red;
+    color: crimson;
+    font-family: fantasy;
     height: 25px;
 }
 /* push
+// look up display
